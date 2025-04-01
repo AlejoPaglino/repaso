@@ -13,3 +13,40 @@ h2 {
 img {
     border: 2px solid black;
 }
+p {
+    background-color: lightblue;
+  }
+  div {
+    margin: 15px;
+  }
+  table {
+    padding: 10px;
+  }
+  img {
+    width: 200px;
+  }
+  /* Estilo para el ID #titulo-grande */
+#titulo-grande {
+    font-size: 30px;
+}
+  /* Cambiar color de los elementos li dentro de ul */
+ul li {
+    color: purple;
+}
+/* Estilo para el párrafo <p> */
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 16px;
+    background-color: yellow;
+}
+/* Estilo para la tabla */
+table {
+    border: 1px solid black;
+    border-collapse: collapse; /* Asegura que los bordes se colapsen en uno solo */
+}
+
+/* Estilo para las celdas de la tabla */
+table td {
+    padding: 5px;
+}
+

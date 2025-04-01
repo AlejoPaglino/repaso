@@ -1,0 +1,24 @@
+/* Cambiar el fondo del body */
+body {
+    background-color: lightgreen;
+}
+/* Estilo para el h1 */
+h1 {
+    color: blue;         
+    text-align: center;   
+    font-size: 28px;       
+}
+/* Estilo para el párrafo <p> */
+p {
+    font-family: Georgia, serif; 
+    font-size: 18px;          
+}
+/* Estilo para la lista desordenada <ul> */
+ul {
+    font-weight: bold; 
+    color: brown;      
+}
+/* Estilo para la imagen <img> */
+img {
+    border: 3px dotted black; 
+}
